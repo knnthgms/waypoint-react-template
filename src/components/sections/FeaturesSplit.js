@@ -66,7 +66,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Fully Automated
                 </div>
                 <h3 className="mt-0 mb-12">Data-driven insights</h3>
                 <p className="m-0">
@@ -98,9 +98,9 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Lightning-fast workflow
                 </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <h3 className="mt-0 mb-12">Generic</h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -116,7 +116,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-02.png")}
+                  src={require("./../../assets/images/features-split-image-02.jpg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -130,9 +130,9 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Data-driven
                 </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <h3 className="mt-0 mb-12">High Quality predictions</h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -148,7 +148,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/features-split-image-03.jpg")}
                   alt="Features split 03"
                   width={528}
                   height={396}

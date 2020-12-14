@@ -73,10 +73,10 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="#">
-                    Get started
+                    Get in touch
                   </Button>
                   <Button tag="a" color="dark" wideMobile href="#">
-                    View on Github
+                    Try for free
                   </Button>
                 </ButtonGroup>
               </div>
