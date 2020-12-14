@@ -46,7 +46,8 @@ const Cta = ({
       <div className="container">
         <div className={innerClasses}>
           <div className="cta-slogan">
-            <h3 className="m-0">Stay updated with our developments</h3>
+            <h3 className="m-0">Stay in the loop</h3>
+            <p>Join our newsletter to get top news before anyone else</p>
           </div>
           <div className="cta-action">
             <Input
@@ -55,7 +56,7 @@ const Cta = ({
               label="Subscribe"
               labelHidden
               hasIcon="right"
-              placeholder="Your best email"
+              placeholder="Your email ID"
             >
               <svg width="16" height="12" xmlns="http://www.w3.org/2000/svg">
                 <path

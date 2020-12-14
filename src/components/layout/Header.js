@@ -116,7 +116,7 @@ const Header = ({
                   >
                     <li>
                       <Link to="#0" onClick={closeMenu}>
-                        Documentation
+                        Demo
                       </Link>
                     </li>
                   </ul>
@@ -128,7 +128,7 @@ const Header = ({
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         >
-                          Start for free
+                          Lets Talk
                         </Link>
                       </li>
                     </ul>

@@ -44,8 +44,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: "Time Series Forecasting using AutoML",
-    paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+    paragraph: "We discover the best conditions for the desired outcome",
   };
 
   return (
